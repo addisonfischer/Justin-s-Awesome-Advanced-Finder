@@ -1,5 +1,5 @@
 # D365AdvancedFinderExtension
-Extension made for Justin to get to Advanced Finder quicker
+Extension made for Justin to get to Advanced Finder quicker from any *make.powerapps.com/* address
 
 ![image](https://github.com/user-attachments/assets/abedcd31-df43-42d1-826d-df599142ac96)
 
