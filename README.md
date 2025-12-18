@@ -5,6 +5,7 @@ Extension made for Justin to get to Advanced Finder quicker from any *make.power
 
 Works in all (hopefully) \*make.powerapps.com/\*
 
+Note: this was made before realizing this exists in Level up for Dynamics 365/Power Apps (Navigation -> Advanced Find)
 
 #### Intallation
 - Go to releases on the rignt
